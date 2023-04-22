@@ -16,6 +16,7 @@
   <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white'>
   <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
   <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'>
+  <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
     
   <hr>
   
@@ -23,6 +24,7 @@
   <br><br>
   <a href="https://www.linkedin.com/in/lucas-silva-goncalves-683b1a221/"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
   <a href="https://twitter.com/lucas_gonzalito"><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'></a>
+    <a href="https://open.spotify.com/user/22d576gpwqixlmnqr7errixui?si=36538b43d1f54903"><img src='https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white'></a>
    
   <hr>
     
