@@ -2,7 +2,7 @@
 
 Hello everyone, that's my tech portfolio in GitHub! Feel comfortable to take a look 😁
 
-<img src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSGonza&layout=compact&theme=radical&' align='left'/>
+<img src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSGonza&layout=compact&theme=radical&card_width=300' align='left'/>
 <br>
 <div>
     <h2> 💻 HardSkills </h2>
