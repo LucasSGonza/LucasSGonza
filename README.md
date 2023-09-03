@@ -2,8 +2,10 @@
 
 Hello everyone, that's my tech portfolio in GitHub! Feel comfortable to take a look 😁
 
-<img src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSGonza&layout=compact&theme=radical' align='left'/>
-<br>
+<div>
+    <img src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSGonza&layout=compact&theme=radical' align='left'/>
+</div>
+
 <div align='center'>
     <h2> 💻 HardSkills </h2>
     <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
