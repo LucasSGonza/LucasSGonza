@@ -1,6 +1,9 @@
 # Lucas Silva Gonçalves 👩‍💻
 
-Hello everyone, that's my tech portfolio in GitHub! Feel comfortable to take a look 😁
+<div>
+    <p>Hello everyone, that's my tech portfolio in GitHub! Feel comfortable to take a look 😁</p>
+    <p>🎓</p>
+</div>
 
 <div>
     <img src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSGonza&layout=compact&theme=radical' align='left'/>
