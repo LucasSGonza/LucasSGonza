@@ -2,7 +2,6 @@
 
 <div>
     <p>Hello everyone, that's my tech portfolio in GitHub! Feel comfortable to take a look 😁</p>
-    <p>🎓</p>
 </div>
 
 <div>
