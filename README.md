@@ -28,7 +28,6 @@
   <h2> Socials 📲  
   <br><br>
   <a href="https://www.linkedin.com/in/lucas-silvagoncalves/"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
-  <a href="https://open.spotify.com/user/22d576gpwqixlmnqr7errixui?si=36538b43d1f54903"><img src='https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white'></a>
 </div>
    
   <hr>
