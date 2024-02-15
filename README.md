@@ -1,45 +1,43 @@
-# Lucas Silva Gonçalves 👩‍💻
+## Hello everyone, i'm Lucas 👋
+That's my tech portfolio in GitHub! Feel comfortable to take a look 😁
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silvagoncalves/) 
+
+## About me
+
+<a href="https://emoji.gg/emoji/8155-dancing-alien-boi"><img src="https://cdn3.emoji.gg/emojis/8155-dancing-alien-boi.gif" width="50px" height="50px" alt="Dancing_Alien_Boi"></a>
+
+- 🎓 Graduating in Information Systems in _Universidade do Sul de Santa Catarina (UNISUL)_
+- 💼 Currently working in _Intelbras_ as Junior Apprentice of Mobile Development of Android and iOS !
+- 📚 Love to develop and learn about new things of this world!
 
 <div>
-    <p>Hello everyone, that's my tech portfolio in GitHub! Feel comfortable to take a look 😁</p>
+    <h2>💻 HardSkills</h2>
+    <img src='https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white'>
+    <img src='https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat&logo=Kotlin&logoColor=white'>
+    <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black'>
+    <img src='https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white'>
+    <img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB'>
+    <img src='https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white'>
+    <img src='https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white'>
+    <img src='https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white'>
+    <img src='https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white'>
+    <img src='https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white'>
+    <img src='https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white'>
+    <img src='https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black'>
 </div>
 
 <div>
-    <img src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSGonza&layout=compact&theme=radical' align='left'/>
+    <h2>🛠 Tech Tools and IDEs</h2>
+    <img src='https://img.shields.io/badge/iOS-000000.svg?style=flat&logo=Apple&logoColor=white'>
+    <img src='https://img.shields.io/badge/Android-34A853.svg?style=flat&logo=Android&logoColor=white'>
+    <img src='https://img.shields.io/badge/Xcode-147EFB.svg?style=flat&logo=Xcode&logoColor=white'>
+    <img src='https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=androidstudio&logoColor=white'>
+    <img src='https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white'>
 </div>
 
-<div align='center'>
-    <h2> 💻 HardSkills </h2>
-    <img src='https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white'>
-    <img src='https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=black'>
-    <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
-    <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
-    <img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB'>
-    <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-    <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
-    <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white'>
-    <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
-    <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'>
-    <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
-    <img src='https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black'>
-</div>
-    
-  <hr>
-<div>
-  <h2> Socials 📲  
-  <br><br>
-  <a href="https://www.linkedin.com/in/lucas-silvagoncalves/"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
-</div>
-   
-  <hr>
+<br>
 
-<div>
-  <h3> Useless(Game) Skills:
-  <br><br>
-  <img src='https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white'>
-  <img src='https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white'>
-  <img src='https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white'>
-  <img src='https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white'>
-  <img src='https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white'>
-  <img src='https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF'>
-</div>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSGonza&layout=compact&theme=radical'/>
+
+---
