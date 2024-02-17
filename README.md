@@ -17,7 +17,6 @@ That's my tech portfolio in GitHub! Feel comfortable to take a look 😁
     <img src='https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat&logo=Kotlin&logoColor=white'>
     <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black'>
     <img src='https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white'>
-    <img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB'>
     <img src='https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white'>
     <img src='https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white'>
     <img src='https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white'>
