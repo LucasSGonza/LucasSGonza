@@ -8,7 +8,7 @@ That's my tech portfolio in GitHub! Feel comfortable to take a look 😁
 <a href="https://emoji.gg/emoji/8155-dancing-alien-boi"><img src="https://cdn3.emoji.gg/emojis/8155-dancing-alien-boi.gif" width="50px" height="50px" alt="Dancing_Alien_Boi"></a>
 
 - 🎓 Graduating in Information Systems in _Universidade do Sul de Santa Catarina (UNISUL)_
-- 💼 Currently working in _Intelbras_ as Junior Apprentice of Mobile Development of Android and iOS !
+- 💼 Currently working in _Softplan_ as TI Trainee !
 - 📚 Love to develop and learn about new things of this world!
 
 <div>
