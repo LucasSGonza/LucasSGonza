@@ -22,6 +22,7 @@ That's my tech portfolio in GitHub! Feel comfortable to take a look 😁
     <img src='https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white'>
     <img src='https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white'>
     <img src='https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white'>
+    <img src='https://img.shields.io/badge/DBeaver-orange.svg?style=flat&logo=dbeaver&logoColor=white'>
     <img src='https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white'>
     <img src='https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white'>
     <img src='https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white'>
