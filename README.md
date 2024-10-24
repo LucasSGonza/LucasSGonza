@@ -13,9 +13,9 @@ That's my tech portfolio in GitHub! Feel comfortable to take a look 😁
 
 <div>
     <h2>💻 HardSkills</h2>
-    <img src='https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black'>
+    <img src='https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=white'>
     <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black'>
-    <img src='https://img.shields.io/badge/TypeScript-F7DF1E?style=flat&logo=typescript&logoColor=black'>
+    <img src='https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=black'>
     <img src='https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white'>
     <img src='https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white'>
     <img src='https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat&logo=Kotlin&logoColor=white'>
@@ -29,11 +29,11 @@ That's my tech portfolio in GitHub! Feel comfortable to take a look 😁
 
 <div>
     <h2>🛠 Tech Tools and IDEs</h2>
+    <img src='https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white'>
     <img src='https://img.shields.io/badge/iOS-000000.svg?style=flat&logo=Apple&logoColor=white'>
     <img src='https://img.shields.io/badge/Android-34A853.svg?style=flat&logo=Android&logoColor=white'>
     <img src='https://img.shields.io/badge/Xcode-147EFB.svg?style=flat&logo=Xcode&logoColor=white'>
     <img src='https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=androidstudio&logoColor=white'>
-    <img src='https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white'>
 </div>
 
 <br>
