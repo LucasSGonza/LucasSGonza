@@ -1,7 +1,9 @@
 ## Hello everyone, i'm Lucas 👋
 That's my tech portfolio in GitHub! Feel comfortable to take a look 😁
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silvagoncalves/) 
+<a href="https://www.linkedin.com/in/lucas-silvagoncalves/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ## About me
 
